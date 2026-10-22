@@ -1,0 +1,28 @@
+\begin{table}[htpb]
+\centering
+\footnotesize
+\begin{tabular}{l cc cc cc}
+\toprule
+ & \multicolumn{2}{c}{\textit{effort}} & \multicolumn{2}{c}{\textit{talent}} & \multicolumn{2}{c}{\textit{luck}} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5} \cmidrule(lr){6-7}
+ & (1) & (2) & (3) & (4) & (5) & (6) \\
+\midrule
+Age & $0.019$ & $0.020$ & $0.013$ & $0.015$ & $0.034^{***}$ & $0.033^{***}$ \\
+        & ($0.015$) & ($0.014$) & ($0.013$) & ($0.013$) & ($0.009$) & ($0.009$) \\
+Age$^2$ & $-0.00007$ & $-0.00007$ & $-0.00004$ & $-0.00004$ & $-0.00010^{***}$ & $-0.00010^{***}$ \\
+        & ($0.00005$) & ($0.00005$) & ($0.00004$) & ($0.00004$) & ($0.00003$) & ($0.00003$) \\
+Male &  & $-0.324^{***}$ &  & $-0.188^{**}$ &  & $-0.154^{*}$ \\
+        &  & ($0.049$) &  & ($0.072$) &  & ($0.083$) \\
+Siblings &  & $-0.077$ &  & $-0.042$ &  & $-0.056$ \\
+        &  & ($0.137$) &  & ($0.102$) &  & ($0.090$) \\
+STEM &  & $-0.037$ &  & $-0.043$ &  & $0.056$ \\
+        &  & ($0.084$) &  & ($0.064$) &  & ($0.069$) \\
+\midrule
+Obs. & 330 & 330 & 382 & 382 & 439 & 439 \\
+Adj. R$^2$ & 0.009 & 0.052 & 0.006 & 0.018 & 0.077 & 0.082 \\
+\bottomrule
+\multicolumn{7}{l}{\footnotesize $^{***}p<0.01$; $^{**}p<0.05$; $^{*}p<0.1$. SE clustered at the session level.}
+\end{tabular}
+\caption{OLS regressions of \textit{final} allocation in the \textit{addition} treatment, performed separately on each winner selection method}
+\label{table-b6}
+\end{table}

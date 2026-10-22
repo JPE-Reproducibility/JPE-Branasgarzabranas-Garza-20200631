@@ -1,0 +1,22 @@
+replication-package/Replication Package/Code/Code.R
+replication-package/Replication Package/Paper/revised ms.tex
+replication-package/Replication Package/Paper/Figs/Table16.tex
+replication-package/Replication Package/Paper/Figs/Table17.tex
+replication-package/Replication Package/Paper/Figs/Table2.tex
+replication-package/Replication Package/Paper/Figs/Table20.tex
+replication-package/Replication Package/Paper/Figs/Table21.tex
+replication-package/Replication Package/Paper/Figs/Table22.tex
+replication-package/Replication Package/Paper/Figs/Table3.tex
+replication-package/Replication Package/Paper/Figs/Table4.tex
+replication-package/Replication Package/Paper/Figs/Table5.tex
+replication-package/Replication Package/Paper/Figs/summary_table.tex
+replication-package/Replication Package/Paper/Figs/table10.tex
+replication-package/Replication Package/Paper/Figs/table11.tex
+replication-package/Replication Package/Paper/Figs/table12.tex
+replication-package/Replication Package/Paper/Figs/table13.tex
+replication-package/Replication Package/Paper/Figs/table14.tex
+replication-package/Replication Package/Paper/Figs/table15.tex
+replication-package/Replication Package/Paper/Figs/table18.tex
+replication-package/Replication Package/Paper/Figs/table19.tex
+replication-package/Replication Package/Paper/Figs/table6.tex
+replication-package/Replication Package/Paper/Figs/table9.tex

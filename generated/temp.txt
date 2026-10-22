@@ -1,0 +1,38 @@
+         ReadMe 
+
+         Repository: https://github.com/labelinstitute/dev_DM/tree/main/Meritocracy 
+
+         Software: o-Tree, stored under Software in GitHub 
+
+         Data: Seven CSV ﬁles, available in the Data folder on GitHub and the data/ folder in the 
+         replication package. 
+
+         Data cleaning and statistical analysis: R script, stored under Analysis Code in GitHub/ 
+         and the Code/ folder in the replication package. 
+
+         Tables and Graphs: generated in R and stored in the Paper/Figs/ folder of the replication 
+         package. 
+
+          
+
+         Pipeline to reproduce the paper: 
+
+         Data cleaning and statistical analysis: R 
+
+         Tables: Generates all analysis tables (in tex format) and analysis graphs (in pdf format) 
+         (stored under Paper/Figs/). 
+
+         Text in Latex: compiles text, tables and graphs in one command 
+
+         References: generated in Bibtex (bib-3rdkids.bib) 
+
+          
+
+         Data correction. During preparation of the replication package, we identiﬁed 27 records 
+         inadvertently duplicated when merging the original school-level date ﬁles (La Línea: 6 in 
+         grade 1 and 7 in grade 2; Mérida: 8 in grade 1 and 6 in grade 2). These duplicates have 
+         already been removed from the supplied data ﬁles. The corrected analytical sample 
+         includes 2,253 participants, rather than the 2,280 observations reported in the accepted 
+         manuscript. All analyses were re-estimated using the corrected data. 
+
+          

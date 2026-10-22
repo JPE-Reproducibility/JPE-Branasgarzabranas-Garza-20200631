@@ -1,6 +1,12 @@
-title: "Stand-in title"
-author: "Dr Prof James 'JayJay' Author"
-paper_id: 12345678
+title: "Developmental Meritocracy"
+author: "Brañas-Garza"
 round: 1
-repo: "https://www.github.com/standin"
-dropbox_rel_path: "JPE/Author-12345678/1"
+repo: "https://github.com/JPE-Reproducibility/JPE-Branasgarzabranas-Garza-20200631"
+paper_id: 20200631
+journal: "JPE"
+paper_slug: "Branasgarzabranas-Garza-20200631"
+dropbox_rel_path: "JPE/Branasgarzabranas-Garza-20200631/1"
+package_size_gb: 0.06
+package_max_file_size_gb: 2
+package_max_pkg_size_gb: 10
+large_reports_url: "https://www.dropbox.com/scl/fo/h6u8yv16pj9ucd7vurhps/AOi15o4HlAN9hlWqK-ldyHE?rlkey=x67vshs0kwq75wjyqi57o3w82&dl=0"

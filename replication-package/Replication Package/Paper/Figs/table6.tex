@@ -1,0 +1,52 @@
+\begin{table}[htpb]
+\centering
+\footnotesize
+\begin{threeparttable}
+\begin{tabular}{l cc cc}
+\toprule
+ & \multicolumn{2}{c}{Initial choice} & \multicolumn{2}{c}{Final choice} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5}
+ & Merit. & Comp. & Merit. & Comp. \\
+\midrule
+\textit{Age} & $-0.296^{***}$ & $-0.339^{***}$ & $-0.827^{***}$ & $-0.449^{***}$ \\
+           & ($0.113$) & ($0.101$) & ($0.211$) & ($0.125$) \\
+\textit{Age}$^2$ & $0.009^{*}$ & $0.012^{***}$ & $0.030^{***}$ & $0.017^{***}$ \\
+           & ($0.005$) & ($0.005$) & ($0.009$) & ($0.005$) \\
+\textit{Male} & $0.509^{***}$ & $0.081$ & $0.692^{***}$ & $0.019$ \\
+           & ($0.061$) & ($0.133$) & ($0.204$) & ($0.116$) \\
+\textit{Siblings} & $-0.011$ & $-0.122$ & $0.040$ & $-0.125$ \\
+           & ($0.223$) & ($0.254$) & ($0.143$) & ($0.083$) \\
+\textit{STEM} & $0.000$ & $-0.006$ & $-0.179$ & $-0.116$ \\
+           & ($0.082$) & ($0.062$) & ($0.121$) & ($0.106$) \\
+DeRMET (resid) & $-0.059^{***}$ & $0.007$ & $-0.021$ & $0.008$ \\
+           & ($0.019$) & ($0.019$) & ($0.028$) & ($0.025$) \\
+Extraversion (resid) & $-0.008$ & $0.046$ & $-0.069$ & $0.022$ \\
+           & ($0.018$) & ($0.032$) & ($0.073$) & ($0.035$) \\
+Agreeableness (resid) & $-0.134^{**}$ & $-0.067$ & $-0.142^{***}$ & $-0.057$ \\
+           & ($0.058$) & ($0.051$) & ($0.049$) & ($0.095$) \\
+Conscientiousness (resid) & $0.073$ & $0.061$ & $0.145^{**}$ & $0.060$ \\
+           & ($0.051$) & ($0.059$) & ($0.060$) & ($0.056$) \\
+Neuroticism (resid) & $0.017$ & $-0.011$ & $0.040$ & $-0.042$ \\
+           & ($0.022$) & ($0.045$) & ($0.042$) & ($0.051$) \\
+Openness (resid) & $0.040$ & $0.111^{*}$ & $-0.000$ & $0.024$ \\
+           & ($0.049$) & ($0.057$) & ($0.076$) & ($0.060$) \\
+\textit{redistribution} & $0.691^{***}$ & $0.087$ & $0.290^{***}$ & $-0.106$ \\
+           & ($0.083$) & ($0.180$) & ($0.078$) & ($0.185$) \\
+\textit{luck} & $0.072$ & $0.458^{***}$ & $-0.188$ & $-0.025$ \\
+           & ($0.232$) & ($0.159$) & ($0.118$) & ($0.115$) \\
+\textit{talent} & $-0.052$ & $0.070$ & $-0.024$ & $-0.540^{***}$ \\
+           & ($0.165$) & ($0.101$) & ($0.111$) & ($0.196$) \\
+Constant & $1.234^{**}$ & $1.600^{***}$ & $4.385^{***}$ & $2.871^{***}$ \\
+           & ($0.586$) & ($0.620$) & ($1.116$) & ($0.692$) \\
+\midrule
+Obs. & 2196 & 2196 & 2196 & 2196 \\
+AIC  & 4,670 & 4,670 & 4,606 & 4,606 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}[flushleft]\footnotesize
+\item $^{***}p<0.01$; $^{**}p<0.05$; $^{*}p<0.1$. Reference categories: equitable choice, effort, addition. Age in years. SE clustered by session and campus.
+\end{tablenotes}
+\end{threeparttable}
+\caption{Multinomial regressions of meritocratic and compensatory initial and final choices: the effect of emotional intelligence and personality}
+\label{table-ToMandBig5}
+\end{table}

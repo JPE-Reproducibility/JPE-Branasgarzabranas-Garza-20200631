@@ -1,0 +1,50 @@
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/README.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Documentation/Experimental Design and Participant Selection.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Documentation/Experimental Instructions English.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Documentation/IRB USC Amendment.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Documentation/IRB USC Approval.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Documentation/Intructions Spanish.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/revised ms.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs/aTOM.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs/addition.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs/addition1.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs/fig-big5-score.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs/fig-tom-dist.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs/figure10.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs/figure9.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs/payments.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs/payments1.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs/paymentsCond.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs/paymentsCond1.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs/redistribution.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs/redistribution1.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs/screen-sliders.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs/screen-trivia.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/Paper/Figs_appC/burgerpizza.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/data/Variables Dictionary.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/._README.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Documentation/._Experimental Design and Participant Selection.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Documentation/._Experimental Instructions English.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Documentation/._IRB USC Amendment.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Documentation/._IRB USC Approval.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Documentation/._Intructions Spanish.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/._revised ms.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs/._aTOM.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs/._addition.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs/._addition1.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs/._fig-big5-score.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs/._fig-tom-dist.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs/._figure10.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs/._figure9.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs/._payments.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs/._payments1.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs/._paymentsCond.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs/._paymentsCond1.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs/._redistribution.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs/._redistribution1.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs/._screen-sliders.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs/._screen-trivia.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/Paper/Figs_appC/._burgerpizza.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/data/._Variables Dictionary.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/Replication Package/data/~$ADME_variables.docx
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20200631-1/replication-package/__MACOSX/Replication Package/data/._~$ADME_variables.docx
