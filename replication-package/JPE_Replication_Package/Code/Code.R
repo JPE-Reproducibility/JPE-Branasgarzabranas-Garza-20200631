@@ -12,6 +12,9 @@ library(multiwayvcov)
 library(stargazer)
 
 
+# Ensure the output directory exists even when empty folders were not transferred.
+dir.create("../Paper/Figs", recursive = TRUE, showWarnings = FALSE)
+
 # Importing Data --------------------------------------------------------
 
 

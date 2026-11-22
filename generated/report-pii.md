@@ -18,20 +18,6 @@
 | Data | `dataALsmall.csv` | 4 | loc, gender, birth |
 | Data | `dataLL.csv` | 4 | loc, gender, birth |
 | Data | `dataLLsmall.csv` | 4 | loc, gender, birth |
-| Data | `dataME.csv` | 4 | loc, gender, birth |
-| Data | `dataMEsmall.csv` | 4 | loc, gender, birth |
-| Code | `Code.R` | 346 | name, lat, school, birth, gender, loc, location, coord, lname, son, second, child, block, lon |
-| Code | `Table16.tex` | 1 | loc, location |
-| Code | `Table17.tex` | 1 | loc, location |
-| Code | `Table2.tex` | 1 | loc, location |
-| Code | `Table20.tex` | 2 | lon |
-| Code | `Table21.tex` | 2 | lon |
-| Code | `Table3.tex` | 1 | loc, location |
-| Code | `Table4.tex` | 1 | loc, location |
-| Code | `revised ms.tex` | 36 | name, url, lat, lon, school, city, gender, loc, location, son, child, address, second, social, birth |
-| Code | `summary_table.tex` | 2 | lat, school |
-| Code | `table10.tex` | 1 | loc, location |
-| Code | `table11.tex` | 1 | loc, location |
-| Code | `table12.tex` | 1 | loc, location |
 
-*See [Appendix](report-pii-appendix.md) for detailed listing of all flagged instances.*
+> **Note**: This list contains 37 entries (0.0 MB) — too large to embed in the report.
+> The full list is available here: <https://www.dropbox.com/scl/fo/midaskj8wdkv7uevlhpl5/AJNOdVkJYvPxgKzE1wZyG_E?rlkey=x1d34513mg3my554cicwkell1&dl=0>
